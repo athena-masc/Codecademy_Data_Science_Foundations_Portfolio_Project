@@ -10,7 +10,7 @@ Project Objectives:\
 Complete a project to add to your portfolio\
 Use Jupyter Notebook to communicate findings\
 Run an analysis on a set of data\
-Become familiar with data analysis workflow\
+Become familiar with data analysis workflow
 
 Prerequisites:\
 Data Visualization\
